@@ -1,2 +1,3 @@
 # hello-world
 Output hello world project
+I'm trying to figure out exactly what I'm doing...
